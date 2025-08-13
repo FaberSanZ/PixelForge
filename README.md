@@ -1,4 +1,4 @@
-  ##               Dextaik is a 2D/3D toy engine implemented in [DX12®]([]())
+  ##               Dextaik is a 2D/3D toy engine implemented in [DirectX 12®]([]())
   
 </h1>
 
